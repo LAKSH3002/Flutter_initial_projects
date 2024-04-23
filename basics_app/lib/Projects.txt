@@ -1,0 +1,7 @@
+This Flutter App has the following small projects:
+1 - Basic stateless widget page
+2 - Stateful widget page
+3 - Book my show page for routing and navigation
+4 - to do list without backend
+5 - Calculator 
+6 - Responsive layout blocks app

@@ -24,13 +24,14 @@ Flutter Animations
 - TweenAnimatedBuilder()
 
 Flutter PaintView
-Firebase Authentication
+Firebase Authentication - done.
 
 My folders for flutter
-1: my basic app - single page appliactions and bookmyshow prototype
-2: Craft my plate - Internship process assignment
-3: Travels app - In making with Animations
-4: Animation page - Dealing with animations and learning paintwork as well. 
+1: flutter basic projects - single page appliactions and bookmyshow prototype
+2: Food Company App - Internship process assignment
+3: Animation page - Dealing with animations and learning paintwork as well. 
+
+
 
 
 

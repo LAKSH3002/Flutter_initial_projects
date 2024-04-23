@@ -73,6 +73,7 @@ If we have a large project in hand we divide it the following ways:
  Widgets - In this part the widgets are designed specificially and they are imported to the screens page.
            This part also comprised of the main part of the app which is given a run to display the app.
 
+
                          
 
 
