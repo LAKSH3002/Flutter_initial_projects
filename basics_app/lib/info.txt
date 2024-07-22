@@ -73,7 +73,12 @@ If we have a large project in hand we divide it the following ways:
  Widgets - In this part the widgets are designed specificially and they are imported to the screens page.
            This part also comprised of the main part of the app which is given a run to display the app.
 
-
+Inkwell button - used for touch response.
+Floating action button - circular icon button for doing primary action in apps.
+snack bar - bottom pop ups.
+icon button - picture printed on material app.
+outline button - similiar to flat buttom with thin grey rectangular border.
+flat button - rect box with no elevations.
                          
 
 
